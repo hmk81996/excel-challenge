@@ -25,6 +25,14 @@ Organize and analyze a database of 1,000 sample projects to uncover any hidden t
     
 ## Results
 
+Outcomes by Year
+
+![Line Chart 1](Images/outcome_by_year.png)
+
+Outcomes by Goal
+
+![Line Chart 2](Images/goal_analysis.png)
+
 ## Analysis
 
 **Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?**
