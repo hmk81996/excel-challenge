@@ -25,13 +25,21 @@ Organize and analyze a database of 1,000 sample projects to uncover any hidden t
     
 ## Results
 
-Outcomes by Year
+Outcomes by Category (Stacked Bar Chart)
+
+![Bar Chart 1](Images/stacked_column.png)
+
+Outcomes by Category and Year (Line Chart)
 
 ![Line Chart 1](Images/outcome_by_year.png)
 
-Outcomes by Goal
+Outcomes by Goal Amount (Line Chart)
 
 ![Line Chart 2](Images/goal_analysis.png)
+
+Statistics Summary
+
+![Statistical Summary]( )
 
 ## Analysis
 
