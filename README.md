@@ -5,7 +5,7 @@ Excel Cleaning and Analysis - Data Analytics Course Module 14
 Organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
 
 # Methodology
-- conditional formatting:
+- conditional formatting
   - color-code project outcome: sucessful, failed, canceled, currently live
   - color-code project percent funded: three-color scale (0, 100, 200)
 - calculate
@@ -19,7 +19,7 @@ Organize and analyze a database of 1,000 sample projects to uncover any hidden t
   - stacked-column pivot chart, filtered by country
   - line graph pivot chart, filtered by parent category and years
 - goal analysis
-  - line chart: goal amount and chance of success, failure, cancellation 
+  - line graph pivot chart: goal amount and chance of success, failure, cancellation 
 - statistical analysis      
   - summary statistic table
     
@@ -39,7 +39,7 @@ Outcomes by Goal Amount (Line Chart)
 
 Statistics Summary
 
-![Statistical Summary]( )
+![Statistical Summary](Images/statistical_summary.jpg)
 
 ## Analysis
 
